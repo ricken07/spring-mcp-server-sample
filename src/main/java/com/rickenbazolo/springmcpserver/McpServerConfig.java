@@ -1,6 +1,5 @@
 package com.rickenbazolo.springmcpserver;
 
-import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.tool.ToolCallbackProvider;
 import org.springframework.ai.tool.method.MethodToolCallbackProvider;
 import org.springframework.aot.hint.MemberCategory;
